@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "425223775644",
+    "project_id": "cam-scanner-clone-5dd41",
+    "storage_bucket": "cam-scanner-clone-5dd41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425223775644:android:21d71845e68bcc1fe95459",
+        "android_client_info": {
+          "package_name": "com.example.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425223775644-1ko2h8vm4n9ov89j4v91du0unf0n8sji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scanner",
+            "certificate_hash": "e47758c2a884de6559f58f2fb7c1e02627257b12"
+          }
+        },
+        {
+          "client_id": "425223775644-ml4d4m0kgjvgdigni5toee30f49nve8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGbtnk6AsK1gvAvVTkhy257mfCVdTMlUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425223775644-ml4d4m0kgjvgdigni5toee30f49nve8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
